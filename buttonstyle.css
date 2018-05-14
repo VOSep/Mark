@@ -82,5 +82,11 @@ font-weight: bold;
 }
 .banner{
 background-color:#f43521;
-font:10px Arial, Helvetica, sans-serif;
+font:12px Arial, Helvetica, sans-serif;
+}
+.imgbanner {
+height: 100px;
+width: 	200px;
+
+
 }
